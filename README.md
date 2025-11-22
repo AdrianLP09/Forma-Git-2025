@@ -1,11 +1,12 @@
 # python-memory-game
+
 A simple GUI memory game made with Tkinter.
 
 This repository was forked from https://github.com/kate-somi/python-memory-game, which I would like to thank for their contribution.
 
 ## Usage
 
-This game needs Tkinter. Depending on your distribution, you might need to install it with `sudo apt install python3-tk`.
+This game needs Tkinter. Depending on your distribution, you might need to install it with `sudo apt install python3-tk` or with `sudo dnf install python3-tkinter`.
 
 To run the game, use `python main.py`.
 
