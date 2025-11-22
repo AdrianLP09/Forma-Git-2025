@@ -20,9 +20,8 @@ def choose_mode():
 2. Si les deux cartes sont identiques, elle resteront face visibles.
 3. Sinon elles seront masquées.
 4. Le jeu se termine lorsque toutes les cartes sont visibles.
-5. A new game starts automatically.
-6. Press ENTER to change mode.
-7. Press ESCAPE to exit.
+5. Press ENTER to change mode.
+6. Press ESCAPE to exit.
         """,
         width="60",
         bg="misty rose",
